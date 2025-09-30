@@ -110,7 +110,7 @@ WITH RECOVERY;
 Clone the repository:
 
 ```sql
-git clone https://github.com/your-username/MedixCareAssignment.git
+git clone https://github.com/Michelle-Lichtenstein/MedixCareAssignment.git
 ```
 
 - Open MedixCareDB_Script.sql in SSMS.
@@ -124,3 +124,8 @@ This project was created as part of a database security and infrastructure assig
   - Role-based security and least privilege 
   - Auditing for compliance and accountability 
   - Backup and recovery for business continuity.
+
+## Author
+
+**Michelle Lichtenstein** – SQL Server Developer  
+**Project:** MedixCareAssignment - MedixCare Clinic Database Simulation
